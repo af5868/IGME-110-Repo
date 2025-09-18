@@ -8,5 +8,5 @@
 
 [RIT](https://www.rit.edu)
 
-![image](/assets/images/tux.png)
-
+![image](/assets/images/s.png)
+imagine i had an image to link
