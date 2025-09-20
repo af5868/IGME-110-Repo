@@ -24,15 +24,16 @@
 4. [**Dandy's World**](https://www.roblox.com/games/16116270224/Dandys-World-ALPHA)
     - Controversial take: Dandy's World is a good game. Despite being aimed towards younger children, this game has an INSANELY high skill ceiling. In Dandy's, there are 34 different character with all different unique stats and abilities as well as character building with trinkets. Its an infinite floor survival game with a max of 8 players. Unfortunately, also somewhattt a DBD clone with machines that have to be completed before advancing to lower floors. There are AI versions of the playable characters that will try and kill you. The further you go, the harder it gets. A LOT harder. Very fun game but unfortunately lacks a lot of replayability.  
 
-## misc
+## Misc
 
 1. [Creature CHAOS](https://www.roblox.com/games/10785055221/Creature-CHAOS)
-    - This game has a lot of backstory to it. Initially, this game was called "Creeper CHAOS", which was a massive game created by a relatively famous roblox dev, until roblox eventually took it down for copyright reasons from Minecraft. After that, the game was gone for a few years. Many clones of the game released which quickly took its place. Though, not as successful. Eventually, the original developer remade the game under the name "Creature CHAOS".
+    - This game has a lot of backstory to it. Initially, this game was called "Creeper CHAOS", which was a massive game created by a relatively famous roblox dev, until roblox eventually took it down for copyright reasons from Minecraft. After that, the game was gone for a few years. Many clones of the game released which quickly took its place. Though, not as successful. Eventually, the original developer remade the game under the name "Creature CHAOS". However, at that point, there had already been a plethora of clones of the original game. The developer went out of there way to go through numerous clones and take down as many as possible, but more and more kept appearing. Now, the game lays at only a few hundred players at a time meanwhile some clones have up to 1,000. Anyway! The game is about building a structure with your team to protect yourself from creatures killing you. They can destroy your base. Real players are the creatures.
 
 1. [Plates of Fate](https://www.roblox.com/games/4783966408/Plates-of-Fate-Remastered)
+   - This is a fun little game where you and a large group of players are put on individual plates and random events can happen to each plate, person, or server. Mostly luck-based, but a fun passtime. The game linked isn't actually the original as the original developer took down their game. This is a clone that totally ripped off plates of fate and did not give credit nor compensation. Notice how unoriginal developers are the main reason roblox is a bad place to make games now.
 
-2. [Build A Boat For Treasure](https://www.roblox.com/games/537413528/Build-A-Boat-For-Treasure)
-
+3. [Build A Boat For Treasure](https://www.roblox.com/games/537413528/Build-A-Boat-For-Treasure)
+   - This game is all about building your own creations with limited materials. You're supposed to create a boat, sail to get trasure to buy more materials to build bigger boats. However, in the past probably 7 years, the updates have been more mechanics-based so you're able to build lots of cooler things than boats. Good game, slow at first but picks up.
 
 
 
